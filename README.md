@@ -13,4 +13,4 @@ https://lernantino.github.io/run-buddy/
 ## Contribution
 Made with ❤️ by Vik Maharaj
 
-### ©️2019 Run Buddy, Inc 2
+### ©️2019 Run Buddy, Inc
